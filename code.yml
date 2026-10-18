@@ -2,7 +2,8 @@
 -Name: Harsh
 -LastName: Dubey
 Task
--Status: done
+-Status: 
+-Status: fair
 -hosts: Localhostsa
 -Name:ubuntu
 
